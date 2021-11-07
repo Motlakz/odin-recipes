@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    font-family: monospace;
+    background-color: aquamarine;
+}
+h1 {
+    color: green;
+    font-size: 50px;
+    text-align: center;
+}
+li {
+    color: rgb(201, 141, 30);
+    display: flex;
+    font-size: 20px;
+    position: relative;
+    top: 50px;
+}
+img {
+    position: relative;
+    left: 420px;
+}
+h2 {
+    color:grey;
+}
+p {
+    color: purple
+}
